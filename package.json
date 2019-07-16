@@ -28,7 +28,7 @@
             {
                 "label": "Spoon",
                 "uiTheme": "vs-dark",
-                "path": "./themes/spoon.thTheme"
+                "path": "./themes/spoon.tmTheme"
             }
         ]
     },
