@@ -1,0 +1,44 @@
+{
+    "name": "spoon-vscode",
+    "displayName": "Spoon",
+    "description": "The most epic theme now for Visual Studio Code",
+    "version": "1.0.1",
+	"publisher": "ayanbag",
+    "icon": "images/logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ayanbag/spoon-vscode"
+    },
+    "homepage": "https://github.com/ayanbag/spoon-vscode/blob/master/README.md",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+   "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Themes",
+        "Dark Theme",
+        "color-theme",
+        "Spoon",
+        "spoon"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Spoon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/spoon.thTheme"
+            }
+        ]
+    },
+        "devDependencies": {
+        "@upstatement/eslint-config": "^0.4.2",
+        "@upstatement/prettier-config": "^0.3.0",
+        "babel-eslint": "^10.0.2",
+        "eslint": "^6.0.1",
+        "eslint-config-prettier": "^6.0.0",
+        "prettier": "^1.18.2",
+        "vsce": "^1.65.0"
+    }
+}
