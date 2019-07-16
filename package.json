@@ -4,7 +4,7 @@
     "description": "The most epic theme now for Visual Studio Code",
     "version": "1.0.1",
 	"publisher": "ayanbag",
-    "icon": "images/logo.png",
+    "icon": "image/logo.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/ayanbag/spoon-vscode"

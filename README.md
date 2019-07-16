@@ -37,4 +37,4 @@ Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vs
 
 ## Shameless Plug
 
-Spoon is also available for Sublime Text, Atom, iTerm, and more! Check out all available options [here](https://halcyon-theme.netlify.com/).
+Spoon is also available for Sublime Text, Atom, iTerm, and more! Check out all available options [here]
