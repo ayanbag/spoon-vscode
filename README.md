@@ -7,7 +7,14 @@
 <p align="center">
   A minimal, dark theme for VS Code.
 </p>
-
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=ayanbag.spoon-vscode">
+    <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/ayanbag.spoon-vscode.svg" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=ayanbag.spoon-vscode">
+    <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads/ayanbag.spoon-vscode.svg" />
+  </a>
+</p>
 ![demo](https://raw.githubusercontent.com/ayanbag/spoon-vscode/master/images/demo.png)
 
 ## Installation via VS Code
