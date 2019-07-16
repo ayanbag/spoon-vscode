@@ -8,7 +8,7 @@
   A minimal, dark theme for VS Code.
 </p>
 
-![demo](https://raw.githubusercontent.com/ayanbag/spoon-vscode/master/images/demo.png)
+![demo](https://github.com/ayanbag/spoon-vscode/blob/master/image/demo.png)
 
 ## Installation via VS Code
 
