@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Spoon" src="https://github.com/ayanbag/spoon-vscode/blob/master/image/logo.png" width="400" />
+  <img alt="Spoon" src="https://github.com/ayanbag/spoon-vscode/blob/master/image/logo.png" width="180" />
 </p>
 <h1 align="center">
   Spoon Theme for VS Code
@@ -16,7 +16,7 @@
 2.  Search for `Halcyon`
 3.  Click **Install** to install it
 4.  Click **Reload** to reload the editor
-5.  Code > Preferences > Color Theme > **Halcyon**
+5.  Code > Preferences > Color Theme > **Spoon**
 
 ## Manual Installation
 
