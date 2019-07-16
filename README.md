@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Spoon" src="https://raw.githubusercontent.com/ayanbag/spoon-vscode/master/images/logo.png" width="100" />
+  <img alt="Spoon" src="https://github.com/ayanbag/spoon-vscode/blob/master/image/logo.png" width="100" />
 </p>
 <h1 align="center">
   Spoon Theme for VS Code
