@@ -5,7 +5,7 @@
   Spoon Theme for VS Code
 </h1>
 <p align="center">
-  A minimal, dark blue theme for VS Code, Sublime Text, Atom, and more.
+  A minimal, dark theme for VS Code.
 </p>
 
 ![demo](https://raw.githubusercontent.com/ayanbag/spoon-vscode/master/images/demo.png)
@@ -35,6 +35,3 @@ Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vs
 
 
 
-## Shameless Plug
-
-Spoon is also available for Sublime Text, Atom, iTerm, and more! Check out all available options [here]
