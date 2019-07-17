@@ -9,7 +9,11 @@
         "type": "git",
         "url": "https://github.com/ayanbag/spoon-vscode"
     },
-    "homepage": "https://github.com/ayanbag/spoon-vscode/blob/master/README.md",
+    "bugs": {
+        "url": "https://github.com/ayanbag/spoon-vscode/issues",
+        "email": "ayanbag9474@gmail.com"
+    },
+    "homepage": "https://spoontheme.netlify.com",
     "engines": {
         "vscode": "^1.36.0"
     },
